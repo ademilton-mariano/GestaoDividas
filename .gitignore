@@ -1,0 +1,18 @@
+# Arquivos gerados pelo Node.js
+node_modules/
+
+# Arquivos de log
+logs/
+
+# Arquivos de configuração locais
+.env
+
+# Dependências do Yarn (se você estiver usando Yarn)
+yarn.lock
+
+# Dependências do npm (se você estiver usando npm)
+package-lock.json
+
+# Outros arquivos/diretórios específicos que deseja ignorar
+debug.log
+config.js
